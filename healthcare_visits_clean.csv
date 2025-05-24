@@ -1,0 +1,7 @@
+patient_id,name,age,gender,visit_date,diagnosis,blood_pressure,temperature,charges,doctor,notes,systolic,diatolic
+1,John Smith,34,Male,01/12/2024,Flu,120/80,98.6,250,Dr  Lee,na,120,80
+2,Jane D.,29,Female,12/03/2024,Malaria,110/70,102,300,Dr Lee,needs follow-up,110,70
+3,T. Osagie,N/A,Male,05/12/2024,Diabetes,135/85,100,400,Dr  Ayo,N/A,135,85
+4,Chukwuemeka,45,Male,13/12/2024,Hypertension,140/90,99,350,Dr Ayo,follow-up in 2wks,140,90
+5,Mary Anne,33,Female,12/01/2024,Flu,125/85,99,N/A,Dr Lee,blood test recommended,125,85
+6,Godwin A.,38,Male,06/12/2024,Flu,N/A,98,200,Dr Lee,N/A,N/A,N/A
