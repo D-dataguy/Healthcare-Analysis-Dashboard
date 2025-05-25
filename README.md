@@ -24,4 +24,7 @@ from healthcare_visits_clean
 group by doctor
 order by avg_charge desc;
 
+## Limitations
+After working with the file on My SQL i discovered an error with i previously did not notice while in excel. I've left the error for educational purposes but it is better to double check your work when analyzing and i've also learnt that today.
+
 
